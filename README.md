@@ -1,3 +1,3 @@
 # Algorithms-analysis
 
-## Algorithms analysis lecture
+### Algorithms analysis lecture
